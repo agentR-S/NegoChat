@@ -3,7 +3,7 @@ import requests
 import json
 
 # Set up your actual OpenAI API key (from your OpenAI account)
-api_key = "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"  # Replace with your actual OpenAI API key
+api_key = "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"  # Replace with your actual OpenAI API key
 
 # Headers for authentication
 headers = {
